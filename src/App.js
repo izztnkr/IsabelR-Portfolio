@@ -3,8 +3,8 @@ import About from "./components/About";
 import ContactForm from "./components/Contact";
 import Modal from "./components/Modal";
 import Nav from "./components/Nav";
-import Portfolio from "./components/Portfolio";
-import Resume from "./components/Resume";
+// import Portfolio from "./components/Portfolio";
+// import Resume from "./components/Resume";
 
 function App() {
   const [categories] = useState([
@@ -37,7 +37,7 @@ function App() {
       <main>
         {!contactSelected ? (
           <>
-            <Gallery currentCategory={currentCategory}></Gallery>
+            {/* <Gallery currentCategory={currentCategory}></Gallery> */}
             <About></About>
           </>
         ) : (
