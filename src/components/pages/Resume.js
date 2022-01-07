@@ -1,21 +1,33 @@
 import React from "react";
+import isabelResume from "../../assets/Resume/isabelResume.pdf";
 
 const Resume = () => (
   <div>
     <h1>Resume</h1>
-    <p>
-      Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis
-      molestie urna. Aliquam semper ultrices varius. Aliquam faucibus sit amet
-      magna a ultrices. Aenean pellentesque placerat lacus imperdiet efficitur.
-      In felis nisl, luctus non ante euismod, tincidunt bibendum mi. In a
-      molestie nisl, eu sodales diam. Nam tincidunt lacus quis magna posuere,
-      eget tristique dui dapibus. Maecenas fermentum elementum faucibus. Quisque
-      nec metus vestibulum, egestas massa eu, sollicitudin ipsum. Nulla
-      facilisi. Sed ut erat ligula. Nam tincidunt nunc in nibh dictum
-      ullamcorper. Class aptent taciti sociosqu ad litora torquent per conubia
-      nostra, per inceptos himenaeos. Etiam ornare rutrum felis at rhoncus.
-      Etiam vel condimentum magna, quis tempor nulla.
-    </p>
+    <br></br>
+    <a href={isabelResume}>Click here to download my Resume! </a>
+    <br></br>
+    &nbsp;
+    <h4>Languages</h4>
+    <p>HTML, CSS, Javascript, Markdown</p>
+    &nbsp;
+    <h4>Frameworks, Platforms, and Libraries</h4>
+    <p>Bootstrap, Express.js, Insomnia, jQuery, NPM, Node.js REACT, Webpack</p>
+    &nbsp;
+    <h4>Databases</h4>
+    <p>MongoDB, MySQL, NoSQL</p>
+    &nbsp;
+    <h4>ORM</h4>
+    <p>Sequelize</p>
+    &nbsp;
+    <h4>Testing</h4>
+    <p>Jest</p>
+    &nbsp;
+    <h4>Hosting</h4>
+    <p>Heroku</p>
+    &nbsp;
+    <h4>Editors and Version Control</h4>
+    <p>Visual Studio Code, GitHub</p>
   </div>
 );
 
