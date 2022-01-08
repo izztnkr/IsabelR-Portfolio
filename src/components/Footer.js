@@ -4,7 +4,7 @@ import linkedInLogo from "../assets/Footer/red_iconmonstr-linkedin-3-48.png";
 import InstaLogo from "../assets/Footer/red_iconmonstr-instagram-1-48.png";
 
 const Footer = () => (
-  <div>
+  <div style={{ display: "flex", alignItems: "center" }}>
     <a href="https://github.com/izztnkr" target="_blank">
       <img src={githubLogo}></img>
     </a>
