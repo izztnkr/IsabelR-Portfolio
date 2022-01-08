@@ -1,11 +1,11 @@
 import React, { useState } from "react";
-import NavTabs from "./NavTabs";
-import Home from "./pages/Home";
-import About from "./pages/About";
-import Portfolio from "./pages/Portfolio";
-import Contact from "./pages/Contact";
-import Resume from "./pages/Resume";
-import Footer from "./Footer";
+import Header from "./Header/Header";
+import Home from "./Pages/Home";
+import About from "./Pages/About";
+import Portfolio from "./Pages/Portfolio";
+import Contact from "./Pages/Contact";
+import Resume from "./Pages/Resume";
+import Footer from "../components/Footer/Footer";
 
 function WebPortfolio() {
   // Using useState, set the default value for currentPage to 'Home'
@@ -30,7 +30,7 @@ function WebPortfolio() {
   return (
     <div>
       {/* Pass the state value and the setter as props to NavTabs */}
-      <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
+      <Header currentPage={currentPage} handlePageChange={handlePageChange} />
       {/* Call the renderPage function passing in the currentPage */}
       <div>{renderPage(currentPage)}</div>
       <Footer />

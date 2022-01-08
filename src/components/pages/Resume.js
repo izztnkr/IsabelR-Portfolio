@@ -1,8 +1,12 @@
 import React from "react";
 import isabelResume from "../../assets/Resume/isabelResume.pdf";
-
+import './Resume.css';
 const Resume = () => (
-  <div>
+  <div
+  className="title"
+  >
+    <br></br>
+    <br></br>
     <h1>Resume</h1>
     <br></br>
     <a href={isabelResume}>Click here to download my Resume! </a>

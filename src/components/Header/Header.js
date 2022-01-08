@@ -1,12 +1,13 @@
 import React from "react";
+import './Header.css';
 
 // Props are passed through our functional component.
-function NavTabs(props) {
+function Header(props) {
   const tabs = ["About Me", "Portfolio", "Contact", "Resume"];
   return (
-    <div style={{ display: "flex" }}>
-      <h1>Isabel Ramirez</h1>,
-      <ul className="nav nav-tabs">
+    <div className="header" >
+      <h1>Isabel Ramirez</h1>
+      <ul className="nav">
         {tabs.map((tab) => (
           <li className="nav-item" key={tab}>
             <a
@@ -27,4 +28,4 @@ function NavTabs(props) {
   );
 }
 
-export default NavTabs;
+export default Header;
