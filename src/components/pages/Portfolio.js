@@ -2,7 +2,9 @@ import React from "react";
 import CovidGiphy from "../../assets/Gifs/CovidTravelInformationCenter.gif";
 import PurpleMinutesGiphy from "../../assets/Gifs/PurpleMinutesStyle.gif";
 import HoriseonGiphy from "../../assets/Gifs/HoriseonSocialSolutionServices.gif";
-
+import OpenSesameGiphy from "../../assets/Gifs/PasswordGenerator.gif";
+import PlannerGiphy from "../../assets/Gifs/WorkDayScheduler.gif";
+import NotesAppGiphy from "../../assets/Gifs/NoteTaker.gif";
 const WebPortfolio = () => (
   <div>
     <h1>Portfolio</h1>
@@ -39,6 +41,40 @@ const WebPortfolio = () => (
         GitHub Link
       </a>
       <a href="https://izztnkr.github.io/Tnkr-ing-Refactor-Project/">
+        Deployed Link
+      </a>
+    </div>
+    <div
+      style={{ display: "flex", alignItems: "center", flexDirection: "column" }}
+    >
+      <h4>Open Sesame Password Generator</h4>
+      <img src={OpenSesameGiphy}></img>
+      <a href="https://github.com/izztnkr/Open-Sesame-Generator">GitHub Link</a>
+      <a href="https://izztnkr.github.io/Open-Sesame-Generator/">
+        Deployed Link
+      </a>
+    </div>
+    <div
+      style={{ display: "flex", alignItems: "center", flexDirection: "column" }}
+    >
+      <h4>Daily Planner App</h4>
+      <img src={PlannerGiphy}></img>
+      <a href="https://github.com/izztnkr/Daily-Planner">
+        GitHub Link
+      </a>
+      <a href="https://izztnkr.github.io/Daily-Planner/">
+        Deployed Link
+      </a>
+    </div>
+    <div
+      style={{ display: "flex", alignItems: "center", flexDirection: "column" }}
+    >
+      <h4>Note Taker App</h4>
+      <img src={NotesAppGiphy}></img>
+      <a href="https://github.com/izztnkr/MyNotes">
+        GitHub Link
+      </a>
+      <a href="https://notesappvia.herokuapp.com/">
         Deployed Link
       </a>
     </div>
