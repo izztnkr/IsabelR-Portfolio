@@ -5,6 +5,7 @@ import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
 import Resume from "./pages/Resume";
+import Footer from "./Footer";
 
 function WebPortfolio() {
   // Using useState, set the default value for currentPage to 'Home'
@@ -32,6 +33,7 @@ function WebPortfolio() {
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       {/* Call the renderPage function passing in the currentPage */}
       <div>{renderPage(currentPage)}</div>
+      <Footer />
     </div>
   );
 }
