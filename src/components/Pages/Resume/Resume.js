@@ -1,5 +1,5 @@
 import React from "react";
-import isabelResume from "../../assets/Resume/isabelResume.pdf";
+import isabelResume from "../../../assets/Resume/isabelResume.pdf";
 import './Resume.css';
 const Resume = () => (
   <div

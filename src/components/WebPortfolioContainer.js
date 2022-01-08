@@ -1,10 +1,9 @@
 import React, { useState } from "react";
 import Header from "./Header/Header";
-import Home from "./Pages/Home";
-import About from "./Pages/About";
-import Portfolio from "./Pages/Portfolio";
-import Contact from "./Pages/Contact";
-import Resume from "./Pages/Resume";
+import About from "../components/Pages/About/About";
+import Portfolio from "../components/Pages/Portfolio/Portfolio";
+import Contact from "../components/Pages/Contact/Contact";
+import Resume from "../components/Pages/Resume/Resume";
 import Footer from "../components/Footer/Footer";
 
 function WebPortfolio() {

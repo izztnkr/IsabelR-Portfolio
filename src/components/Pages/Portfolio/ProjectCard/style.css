@@ -1,5 +1,5 @@
 .card {
-  background: #fff;
+  background: #ffff;
   border-radius: 2px;
   height: 325px;
   margin: 1rem;
@@ -13,7 +13,7 @@
   height: 60%;
   overflow: hidden;
   text-align: center;
-  background:#c0a1b8;
+  background:#ffe6e6;
 }
 .card > .img-container > img {
   width: 60%
@@ -33,15 +33,4 @@
   margin-top: 18px;
 }
 
-.card > .remove {
-  color: #ff1744;
-  font-size: 48px;
-  position: absolute;
-  top: -20px;
-  right: 5px;
-  cursor: pointer;
-}
 
-.card > .remove:hover {
-  color: #d50000;
-}

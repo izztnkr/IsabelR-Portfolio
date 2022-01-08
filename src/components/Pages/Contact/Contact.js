@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { validateEmail } from "../../utils/helpers";
+import { validateEmail } from "../../../utils/helpers";
 import "./Contact.css";
 
 function Contact() {
@@ -80,8 +80,8 @@ function Contact() {
             <p className="error-text">{errorMessage}</p>
           </div>
         )}
-        <div className="title">
-          <button data-testid="button" type="submit">
+        <div className="subbutton">
+          <button data-testid="button" type="submit" className="subbutton">
             Submit
           </button>
         </div>
