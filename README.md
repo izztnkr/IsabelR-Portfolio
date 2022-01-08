@@ -28,7 +28,8 @@ SO THAT I can assess whether they're a good candidate for an open position
   ## Preview
   
   
-![image](https://media0.giphy.com/media/lNY0a9aJgFcCaDn1nw/giphy.gif?cid=ecf05e47psgv7yleo14azmxgq6al2ofi7e84ze6604v6z3qo&rid=giphy.gif&ct=g)
+![image](https://user-images.githubusercontent.com/86173119/148661285-b46782fc-73b8-4c66-9a57-3a40fa209bc2.png)
+
 
 
    ## Technical_Criteria 
@@ -50,4 +51,4 @@ GIVEN a single-page application portfolio for a web developer
 
 
   ## Links
-  [Link to deployed application](https://github.com/izztnkr)
+  [Link to deployed application](https://izztnkr.github.io/IsabelR-Portfolio/)
