@@ -1,7 +1,17 @@
 .title {
   width: 100%;
+  height: fit-content;
   text-align: center;
+  margin-top: 50px;
   margin-bottom: 50px;
+  background: url(https://reactgifsportfolio.s3.us-east-2.amazonaws.com/image-from-rawpixel-id-936981-jpeg.jpg)  ;
+  background-size: cover;
+}
+
+.title > .bio {
+  margin-bottom: 50px;
+  color: rgb(5, 5, 5);
+  
 }
 
 .title >img {
