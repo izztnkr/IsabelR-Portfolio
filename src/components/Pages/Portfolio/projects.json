@@ -2,42 +2,42 @@
   {
     "id": 1,
     "name": "Covid Travel Information Center",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "image": "https://reactgifsportfolio.s3.us-east-2.amazonaws.com/CovidTravelInformationCenter.gif",
     "gitHubLink": "https://github.com/nguyen-william93/Covid-Tourism-Information-Center",
     "deployedLink": "https://nguyen-william93.github.io/Covid-Tourism-Information-Center/"
   },
   {
     "id": 2,
     "name": "Purple Minutes Styling",
-    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+    "image": "https://reactgifsportfolio.s3.us-east-2.amazonaws.com/PurpleMinutesStyle.gif",
     "gitHubLink": "https://github.com/izztnkr/Project2_Purple_Minutes_Style",
     "deployedLink": "https://purpleminutesstyle.herokuapp.com/"
   },
   {
     "id": 3,
     "name": "Horiseon Social Solutions",
-    "image": "../assets/Gifs/HoriseonSocialSolutionServices.gif",
+    "image": "https://reactgifsportfolio.s3.us-east-2.amazonaws.com/HoriseonSocialSolutionServices.gif",
     "gitHubLink": "https://github.com/izztnkr/Tnkr-ing-Refactor-Project",
     "deployedLink": "https://izztnkr.github.io/Tnkr-ing-Refactor-Project/"
   },
   {
     "id": 4,
     "name": "Open Sesame Password Generator",
-    "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
+    "image": "https://reactgifsportfolio.s3.us-east-2.amazonaws.com/PasswordGenerator.gif",
     "gitHubLink": "https://github.com/izztnkr/Open-Sesame-Generator",
     "deployedLink": "https://izztnkr.github.io/Open-Sesame-Generator/"
   },
   {
     "id": 5,
     "name": "Daily Planner App",
-    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
+    "image": "https://reactgifsportfolio.s3.us-east-2.amazonaws.com/WorkDayScheduler.gif",
     "gitHubLink": "https://github.com/izztnkr/Daily-Planner",
     "deployedLink": "https://izztnkr.github.io/Daily-Planner/"
   },
   {
     "id": 6,
     "name": "Note Taker App",
-    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
+    "image": "https://reactgifsportfolio.s3.us-east-2.amazonaws.com/NoteTaker.gif",
     "gitHubLink": "https://github.com/izztnkr/MyNotes",
     "deployedLink": "https://notesappvia.herokuapp.com/"
   }

@@ -12,8 +12,6 @@ const About = () => (
     <br></br>
     <img
       src={izzyImage}
-      className="my-2"
-      style={{ width: "25%", borderRadius: 300 }}
       alt="headshot"
     />
     <br></br>

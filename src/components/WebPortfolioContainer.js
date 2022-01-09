@@ -7,7 +7,6 @@ import Resume from "../components/Pages/Resume/Resume";
 import Footer from "../components/Footer/Footer";
 
 function WebPortfolio() {
-  // Using useState, set the default value for currentPage to 'Home'
   const [currentPage, handlePageChange] = useState("Home");
 
   // The renderPage method uses a switch statement to render the appropriate current page
@@ -28,9 +27,7 @@ function WebPortfolio() {
 
   return (
     <div>
-      {/* Pass the state value and the setter as props to NavTabs */}
       <Header currentPage={currentPage} handlePageChange={handlePageChange} />
-      {/* Call the renderPage function passing in the currentPage */}
       <div>{renderPage(currentPage)}</div>
       <Footer />
     </div>

@@ -6,6 +6,10 @@
   color: #ffe6e6;
 }
 
-.hyperlink{
+.header > ul > li > a {
   color:#ffffff
+}
+
+.header > ul > li > a:hover {
+  color:#ff9999
 }

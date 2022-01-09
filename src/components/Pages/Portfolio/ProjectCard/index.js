@@ -13,7 +13,7 @@ function ProjectCard(props) {
           <li>
             <strong> {props.name}</strong>
           </li>
-          <li>
+          <li className='link'>
               <a href={props.gitHubLink} target="_blank">Git Hub Link</a>
           </li>
           <li>
