@@ -15,10 +15,10 @@
   },
   {
     "id": 3,
-    "name": "Horiseon Social Solutions",
-    "image": "https://reactgifsportfolio.s3.us-east-2.amazonaws.com/HoriseonSocialSolutionServices.gif",
-    "gitHubLink": "https://github.com/izztnkr/Tnkr-ing-Refactor-Project",
-    "deployedLink": "https://izztnkr.github.io/Tnkr-ing-Refactor-Project/"
+    "name": "Crockett Printing",
+    "image": "https://user-images.githubusercontent.com/86173119/150372753-f97f22f0-5017-4c45-b80d-746608191d4f.gif",
+    "gitHubLink": "https://github.com/izztnkr/CrockettPrinting",
+    "deployedLink": "https://crockett-printing.herokuapp.com/"
   },
   {
     "id": 4,

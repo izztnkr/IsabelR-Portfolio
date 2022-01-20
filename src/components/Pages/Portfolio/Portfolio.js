@@ -15,6 +15,7 @@ function WebPortfolio() {
           id={projects.id}
           key={projects.id}
           name={projects.name}
+          name={projects.name}
           image={projects.image}
           gitHubLink={projects.gitHubLink}
           deployedLink={projects.deployedLink}
