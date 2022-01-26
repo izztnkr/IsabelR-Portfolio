@@ -4,14 +4,8 @@ import "./About.css";
 
 const About = () => (
   <div className="title">
-    <br></br>
-    <br></br>
     <h1>About Me</h1>
-    <br></br>
     <img src={izzyImage} alt="headshot" />
-    <br></br>
-    <br></br>
-    <br></br>
     <div className="bio">
       <p>
         &nbsp;&nbsp;&nbsp;Hola! My name is Izzy Ramirez and I am a full-stack

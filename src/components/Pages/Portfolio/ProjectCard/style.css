@@ -1,7 +1,7 @@
 .card {
   border-radius: 2px;
   height: 350px;
-  margin: 1rem;
+  margin: 4rem;
   position: relative;
   width: 525px;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
@@ -12,10 +12,10 @@
   height: 70%;
   overflow: hidden;
   text-align: center;
-  background:#ffe6e6;
+  background: #ffe6e6;
 }
 .card > .img-container > img {
-  width: 100%
+  width: 100%;
 }
 
 .card > .content {
@@ -31,7 +31,7 @@
 
 .card > .content > ul > li {
   margin-top: 18px;
-  color:#5f2b2b;
+  color: #5f2b2b;
 }
 
 .card > .content > ul > li > a {

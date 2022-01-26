@@ -6,13 +6,13 @@ import './Footer.css';
 
 const Footer = () => (
   <div className="footerStyle">
-    <a href="https://github.com/izztnkr" target="_blank">
+    <a className="socials" href="https://github.com/izztnkr" target="_blank">
       <img src={githubLogo}></img>
     </a>
-    <a href="https://www.linkedin.com/in/izzy-ramirez-izztnkr/" target="_blank">
+    <a className="socials" href="https://www.linkedin.com/in/izzy-ramirez-izztnkr/" target="_blank">
       <img src={linkedInLogo}></img>
     </a>
-    <a href="https://www.instagram.com/thinkntink/" target="_blank">
+    <a className="socials" href="https://www.instagram.com/thinkntink/" target="_blank">
       <img src={InstaLogo}></img>
     </a>
   </div>

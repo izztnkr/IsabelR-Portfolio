@@ -4,20 +4,24 @@
   text-align: center;
   margin-top: 50px;
   margin-bottom: 50px;
-  background: url(https://reactgifsportfolio.s3.us-east-2.amazonaws.com/image-from-rawpixel-id-936981-jpeg.jpg)  ;
+  background: url(https://reactgifsportfolio.s3.us-east-2.amazonaws.com/image-from-rawpixel-id-936981-jpeg.jpg);
   background-size: cover;
+  padding-top: 10%;
 }
 
 .title > .bio {
-  margin-bottom: 50px;
   color: rgb(5, 5, 5);
-  
 }
 
-.title >img {
+.title > img {
   width: 20%;
-  border-radius:300px;
+  border-radius: 300px;
   text-align: center;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 10%;
+  margin-bottom: 5%;
+}
+
+.title > .bio > p {
+  padding-bottom: 10%;
+  padding-top: 5%;
 }
