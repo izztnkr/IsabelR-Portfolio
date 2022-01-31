@@ -13,7 +13,7 @@ function Contact() {
       </div>
       <br></br>
       <div>
-        <h2>Send me a message:</h2>{" "}
+        <h2>Send me a message on LinkedIn:</h2>{" "}
         <a
           href="https://www.linkedin.com/in/izzy-ramirez-izztnkr/"
           target="_blank"
