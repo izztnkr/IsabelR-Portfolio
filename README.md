@@ -51,5 +51,6 @@ GIVEN a single-page application portfolio for a web developer
 
 
   ## Links
-  [Link to deployed application](https://izztnkr.github.io/IsabelR-Portfolio/)
-[izzyramirez.me](https://izzyramirez.me)
+  [Link to deployed application](https://izztnkr.github.io/IsabelR-Portfolio/)&nbsp;&nbsp;
+  
+  [izzyramirez.me](https://izzyramirez.me)
