@@ -28,7 +28,7 @@ SO THAT I can assess whether they're a good candidate for an open position
   ## Preview
   
   
-![image](https://user-images.githubusercontent.com/86173119/148661285-b46782fc-73b8-4c66-9a57-3a40fa209bc2.png)
+![IsabelRPortfolio image](https://user-images.githubusercontent.com/86173119/152456410-9df1c03b-38c5-4186-ab77-401a696204b2.png)
 
 
 
@@ -53,4 +53,3 @@ GIVEN a single-page application portfolio for a web developer
   ## Links
   [Link to deployed application](https://izztnkr.github.io/IsabelR-Portfolio/)&nbsp;&nbsp;
   
-  [izzyramirez.me](https://izzyramirez.me)
