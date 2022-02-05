@@ -5,6 +5,8 @@ import "./Contact.css";
 function Contact() {
   return (
     <section className="title">
+      <h1>Contact</h1>
+      <br></br>
       <div>
         <h2>Send me an email:</h2>{" "}
         <a href="mailto:izzcreativa@gmail.com" target="_blank">
@@ -29,6 +31,8 @@ function Contact() {
         </a>
         
       </div>
+      
+
       <br></br>
       <br></br>
       <br></br>
