@@ -10,6 +10,7 @@ function ProjectCard(props) {
           <img alt={props.name} src={props.image} />
         </div>
         <div className="content">
+          {/* <strong>{props.name}</strong> */}
           <ul>
             <li>
               <strong> {props.name}</strong>
