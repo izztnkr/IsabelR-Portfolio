@@ -1,9 +1,11 @@
 .wrapper {
-  background: #ffff;
+ 
+  background: url(https://reactgifsportfolio.s3.us-east-2.amazonaws.com/image-from-rawpixel-id-936981-jpeg.jpg);
+  background-size: 100%;
   height: 100%;
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
   align-content: flex-start;
   overflow: auto;
-}
+} 

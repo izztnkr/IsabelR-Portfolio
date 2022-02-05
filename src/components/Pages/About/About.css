@@ -2,8 +2,8 @@
   width: 100%;
   height: fit-content;
   text-align: center;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  /* margin-top: 50px; */
+  margin-bottom: 0px;
   background: url(https://reactgifsportfolio.s3.us-east-2.amazonaws.com/image-from-rawpixel-id-936981-jpeg.jpg);
   background-size: cover;
   padding-top: 10%;
@@ -11,6 +11,7 @@
 
 .title > .bio {
   color: rgb(5, 5, 5);
+  padding-bottom: 10%;
 }
 
 .title > img {
@@ -22,6 +23,6 @@
 }
 
 .title > .bio > p {
-  padding-bottom: 10%;
+  /* padding-bottom: 10%; */
   padding-top: 5%;
 }
