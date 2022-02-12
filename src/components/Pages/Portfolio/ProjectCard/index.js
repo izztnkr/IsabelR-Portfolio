@@ -4,13 +4,26 @@ import "./style.css";
 // Props are passed through our functional component.
 function ProjectCard(props) {
   return (
-    <section>
+    <section className="portfolioCards">
+      
       <div className="card">
+      <h3 className="projectTitle">{props.name}</h3>
         <div className="img-container">
           <img alt={props.name} src={props.image} />
         </div>
+        <div className="portfolioButtons">
+          <a
+            className="portfolioLinks"
+            href={props.deployedLink}
+            target="_blank"
+          >
+            <button className="boton">Demo</button>
+          </a>
+          <a className="portfolioLinks" href={props.gitHubLink} target="_blank">
+            <button className="boton">Git Hub Repo</button>
+          </a>
+        </div>
         <div className="content">
-          <h3 className="projectTitle">{props.name}</h3>
           <br></br>
           <strong>Description:</strong>
           <p> {props.description}</p>
@@ -33,14 +46,6 @@ function ProjectCard(props) {
             <img className="icons" src={props.tech12} />
           </div>
           <br></br>
-        </div>
-        <div className="portfolioButtons">
-          <a href={props.deployedLink} target="_blank">
-            <button className="buttons">Demo</button>
-          </a>
-          <a href={props.gitHubLink} target="_blank">
-            <button className="buttons">Git Hub Link</button>
-          </a>
         </div>
       </div>
     </section>

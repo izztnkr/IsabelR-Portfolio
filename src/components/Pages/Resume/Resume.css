@@ -12,3 +12,14 @@
   margin-top: 18px;
   color: #ff9999;
 }
+
+.resumeItems{
+  padding-top: 5%;
+  padding-bottom: 10%;
+}
+
+.resumeItems >.resumeDownload{
+  padding-bottom: 5%;
+  font-weight: bold;
+  font-size: 150%;
+}
