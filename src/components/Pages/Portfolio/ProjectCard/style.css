@@ -1,8 +1,6 @@
 .portfolioCards {
- 
-  background-color: aqua;
-  flex-direction: column;
-  align-items: center;
+ margin-left: 5%;
+  
 }
 
 .card {
@@ -11,7 +9,8 @@
   height: 85%;
   margin: 5%;
   position: relative;
-  width: 80%;
+  max-width: 80%;
+  
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
   text-align: left;
   align-items: center;
@@ -19,7 +18,7 @@
 }
 
 .card > .img-container {
-  width: 85%;
+  width: 95%;
   overflow: hidden;
   text-align: center;
   background: transparent;
@@ -28,8 +27,8 @@
   text-align: center;
   max-width: max-content;
   width: 100%;
-  margin-top: 5%;
-  margin-bottom: 5%;
+  margin-top: 2%;
+  margin-bottom: 2%;
   background-color: transparent;
 }
 
@@ -37,12 +36,14 @@
   padding-left: 1rem;
   padding-right: 1rem;
   font-size: 16px;
-  width: 80%;
+  width: 60%;
   background-color: transparent;
   text-align: left;
 }
-.card > .content > .projectTitle {
+.card >  .projectTitle {
   text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 .card > .content > .technologies >{
   width: 100%;
@@ -52,20 +53,23 @@
   max-width: 4%;
   min-width: 40px;
   margin-right: 5%;
-  align-items: center;
+  
 }
 .card > .portfolioButtons > .portfolioLinks {
+  justify-content: left;
   margin-right: 10px;
   margin-bottom: 10%;
   size: 10px;
 }
 .card > .portfolioButtons > .portfolioLinks > .boton {
-  background-color: #ff9999;
+  background-color: #eca7a7;
   border-radius: 50px;
   size-adjust: large;
+  margin-bottom: 30%;
+  align-items: left;
 }
 .card > .portfolioButtons > .portfolioLinks > :hover {
-  background-color: #ffe6e6;
+  background-color: #d46161;
 }
 /* 
 .card > .content > ul {

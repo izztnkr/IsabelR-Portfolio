@@ -4,17 +4,17 @@ import "./Contact.css";
 
 function Contact() {
   return (
-    <section className="title">
-      <h1>Contact</h1>
+    <section className="page">
+      <h1 className="title">Contact</h1>
       <br></br>
-      <div>
+      <div className="contactFirst">
         <h2>Send me an email:</h2>{" "}
         <a href="mailto:izzcreativa@gmail.com" target="_blank">
           izzcreativa@gmail.com
         </a>
       </div>
       <br></br>
-      <div>
+      <div className="contact">
         <h2>Send me a message on LinkedIn:</h2>{" "}
         <a
           href="https://www.linkedin.com/in/izzy-ramirez-izztnkr/"
@@ -24,18 +24,12 @@ function Contact() {
         </a>
       </div>
       <br></br>
-      <div>
+      <div className="contactLast">
         <h2>Check out my GitHub:</h2>{" "}
         <a href="https://github.com/izztnkr" target="_blank">
           izztnkr on GitHub
         </a>
-        
       </div>
-      
-
-      <br></br>
-      <br></br>
-      <br></br>
     </section>
   );
 }

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Purple Minutes Styling",
-    "description": "This is an MVC architecture one stop portfolio for client Purple Minutes Styling where potential tv and film employers can see their wardrobe and styling work.",
+    "description": "This is a portfolio website for client Purple Minutes Styling where potential TV and film employers can see their wardrobe and styling work as it refers to on-set actors and extras, as well as general film props. This follows the Model View Controller architecture, otherwise known as MVC Architecture. Where data, via model, is displayed to the user (view) via the controller which updates whenever data is changed. This is a product of a 6 person student developer team in which my knowledge of client interaction and project management was exercised along with back-end routing.",
     "image": "https://reactgifsportfolio.s3.us-east-2.amazonaws.com/Purple-Minutes-StyleLarge.gif",
     "gitHubLink": "https://github.com/izztnkr/Project2_Purple_Minutes_Style",
     "deployedLink": "https://purpleminutesstyle.herokuapp.com/",
@@ -23,7 +23,7 @@
   {
     "id": 2,
     "name": "Crockett Printing",
-    "description": "This is a MERN stack single-page application complete with performant JavaScript, NoSQL databases, React, GraphQL APIs, concurrent servers on Mern, and authentication for the client, Crockett Printing.",
+    "description": "Client Crockett Printing was in need of a stronger online presence where the business would begin to transition into e-commerce. This is a MERN Stack single-page application complete with performant JavaScript, NoSQL databases, React, GraphQL APIs, concurrent servers on Mern, and authentication providing Crockett Printing with a solution. Print products can be accessed by print clients and by Tiffany's request (client), they can message her with their print order details.  The team build this out over a 2 week period with my technical focus being applied to the React front-end, messaging functionality, and Heroku deployment.",
     "image": "https://reactgifsportfolio.s3.us-east-2.amazonaws.com/Crockett+PrintingLarge.gif",
     "gitHubLink": "https://github.com/izztnkr/CrockettPrinting",
     "deployedLink": "https://crockett-printing.herokuapp.com/",
@@ -45,7 +45,7 @@
   {
     "id": 3,
     "name": "Isabel R Portfolio",
-    "description": "A mobile responsive React application showcasing work by Web Developer + Creative Thinker, Isabel Ramirez.",
+    "description": "A mobile responsive React application showcasing work by Web Developer + Creative Thinker, Isabel Ramirez. Additional technologies used were Boostrap for styling, and Amazon S3 for media storage. This is a solo project where my styling and UI knowledge can play freely.",
     "image": "https://reactgifsportfolio.s3.us-east-2.amazonaws.com/Isabel+Ramirez+_+PortfolioLarge.gif",
     "gitHubLink": "https://github.com/izztnkr/IsabelR-Portfolio",
     "deployedLink": "https://izztnkr.github.io/IsabelR-Portfolio/",
@@ -66,7 +66,7 @@
   {
     "id": 3,
     "name": "Covid Travel Information Center",
-    "description": "This is a one stop webpage for travelers where access to weather and covid information for various states is possible.",
+    "description": "This is a one stop webpage for travelers where access to weather and COVID-19 information for various states is possible. The technologies used here are simple HTML, Javascript, Bulma for styling elements, and two integrated API's. The COVID Act Now API provides COVID-19 case information per state and the Weather API provides current climate and weather information. The error handling and Weather API integration were alot of fun to build out. Other components such as styling and the COVID Act Now API integration were handled by other team members. ",
     "image": "https://reactgifsportfolio.s3.us-east-2.amazonaws.com/Covid+Travel+Information+CenterLarge.gif",
     "gitHubLink": "https://github.com/nguyen-william93/Covid-Tourism-Information-Center",
     "deployedLink": "https://nguyen-william93.github.io/Covid-Tourism-Information-Center/",
@@ -88,7 +88,7 @@
   {
     "id": 6,
     "name": "Note Taker App",
-    "description": "A mobile responsive note taking app using ExpressJS, Bootstrap, and deployed with Heroku. Write, save and delete your thoughts.",
+    "description": "A mobile responsive note taking app where users can write, save, and delete thoughts. Technologies used to accomplish this are ExpressJS, Bootstrap, and Heroku for deployment. This app is the work of my restless mind needing to create something practical and functional.",
     "image": "https://reactgifsportfolio.s3.us-east-2.amazonaws.com/Note+TakerLarge.gif",
     "gitHubLink": "https://github.com/izztnkr/MyNotes",
     "deployedLink": "https://notesappvia.herokuapp.com/",

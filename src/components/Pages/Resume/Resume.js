@@ -2,17 +2,19 @@ import React from "react";
 import isabelResume from "../../../assets/Resume/isabelResume.pdf";
 import './Resume.css';
 const Resume = () => (
-  <div className="title">
-    <h1>Resume</h1>
+  <div className="page">
+    <h1 className="title">Resume</h1>
+    <div className="resumeItems">
     <br></br>
-    <a href={isabelResume}>Click here to download my Resume! </a>
-    <br></br>
+    <div className="resumeDownload">
+    <a  href={isabelResume}>Click here to download my Resume! </a>
+    </div>
     &nbsp;
     <h4>Languages</h4>
     <p>HTML, CSS, Javascript, Markdown</p>
     &nbsp;
     <h4>Frameworks, Platforms, and Libraries</h4>
-    <p>Bootstrap, Express.js, Insomnia, jQuery, NPM, Node.js REACT, Webpack</p>
+    <p>Bootstrap, Bulma, Express.js, Insomnia, jQuery, NPM, Node.js REACT, Webpack</p>
     &nbsp;
     <h4>Databases</h4>
     <p>MongoDB, MySQL, NoSQL</p>
@@ -30,6 +32,8 @@ const Resume = () => (
     <p>Visual Studio Code, GitHub</p>
     &nbsp;
     &nbsp;
+
+    </div>
   </div>
 );
 
