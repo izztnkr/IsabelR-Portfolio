@@ -27,9 +27,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 
   ## Preview
   
-  
-![IsabelRPortfolio image](https://user-images.githubusercontent.com/86173119/152456410-9df1c03b-38c5-4186-ab77-401a696204b2.png)
-
+  ![image](https://user-images.githubusercontent.com/86173119/153719769-4b39fa5e-fb92-44d5-a815-5a773c6d7c00.png)
 
 
    ## Technical_Criteria 
