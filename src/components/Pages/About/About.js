@@ -21,8 +21,10 @@ const About = () => (
       <h5 className="bio">
         Hola! My name is Izzy Ramirez and I am a bilingual full-stack web
         developer with a science, music, and art background. In other words, I
-        make cool programmer things inspired by the world around me. I am open
-        for interesting projects and collaborations.
+        make cool programmer things inspired by the world around me. 
+        
+        Known as a creative problem solver and team player curious about all things, with a focus on integrating technologies. My aim is to best engage my audience for an impactful and enriching user experience. I’m excited to leverage my skills as part of a fast-paced, quality-driven team to build better experiences.
+
       </h5>
       <div>
         <img src={Bootstrap} alt="Bootstrap logo" />
