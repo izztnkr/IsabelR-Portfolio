@@ -9,7 +9,7 @@ import JavaScript from "../../../assets/AboutMe/icons8-javascript-48.png";
 import MongoDB from "../../../assets/AboutMe/icons8-mongodb-48.png";
 import NodeJS from "../../../assets/AboutMe/icons8-nodejs-48.png";
 import ReactIcon from "../../../assets/AboutMe/icons8-react-50.png";
-import isabelResume from "../../../assets/Resume/isabelResume.pdf";
+import isabelResume from "../../../assets/Resume/Isabel_Ramirez_Resume.pdf";
 
 import "./About.css";
 
