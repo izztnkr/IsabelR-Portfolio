@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "794805ace692616784e6bb2c6bb3d8e1",
+    "revision": "b18e62d7984937bbc7d56c8a6d1a2ce1",
     "url": "/IsabelR-Portfolio/index.html"
   },
   {
-    "revision": "23d1f84d7d7e10ba2eae",
+    "revision": "068474426fb308b75e1e",
     "url": "/IsabelR-Portfolio/static/css/main.9347eff2.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IsabelR-Portfolio/static/js/2.ee0f7b0e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "23d1f84d7d7e10ba2eae",
-    "url": "/IsabelR-Portfolio/static/js/main.9877df78.chunk.js"
+    "revision": "068474426fb308b75e1e",
+    "url": "/IsabelR-Portfolio/static/js/main.f93f09fd.chunk.js"
   },
   {
     "revision": "6cbe07760e3dfc5e62eb",
     "url": "/IsabelR-Portfolio/static/js/runtime-main.89aafdb3.js"
   },
   {
-    "revision": "d8f4d6a7de7d94c455f062773806e26b",
-    "url": "/IsabelR-Portfolio/static/media/Isabel_Ramirez_Resume.d8f4d6a7.pdf"
+    "revision": "ca51080d86236ef1e3612786ab2a9966",
+    "url": "/IsabelR-Portfolio/static/media/Isabel_Ramirez_Resume.ca51080d.pdf"
   },
   {
     "revision": "98bcc7f9d583235686e60df5b0fc5e6f",
