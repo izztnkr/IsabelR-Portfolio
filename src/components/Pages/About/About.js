@@ -32,6 +32,18 @@ const About = () => (
         <a href="https://react.dev/" target="_blank"><img src={ReactIcon} alt="React logo" title="React logo"/></a>
         <a href="https://nodejs.org/en" target="_blank"><img src={NodeJS} alt="NodeJS logo" title="NodeJS logo" /></a>
         <a href="https://www.heroku.com/" target="_blank"><img src={Heroku} alt="Heroku logo" title="Heroku logo" /></a>
+        <a href="https://www.salesforce.com/" target="_blank"><img src={Heroku} alt="Salesforce Marketing Cloud logo" title="Salesforce Marketing Cloud logo" /></a>
+        <a href="https://mailchimp.com/" target="_blank"><img src={Heroku} alt="Mailchimp logo" title="Mailchimp logo" /></a>
+        <a href="https://www.hubspot.com/" target="_blank"><img src={Heroku} alt="Hubspot logo" title="Hubspot logo" /></a>
+        <a href="https://www.notion.so/product" target="_blank"><img src={Heroku} alt="Notion logo" title="Notion logo" /></a>
+        <a href="https://github.com/" target="_blank"><img src={Heroku} alt="Github logo" title="Github logo" /></a>
+        <a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N300000016boHEAQ" target="_blank"><img src={Heroku} alt="Pardot logo" title="Pardot logo" /></a>
+        <a href="https://marketingplatform.google.com/about/tag-manager/" target="_blank"><img src={Heroku} alt="Google Tag Manager logo" title="Google Tag Manager logo" /></a>
+        <a href="https://piwik.pro/" target="_blank"><img src={Heroku} alt="Piwik Pro logo" title="Piwik Pro logo" /></a>
+        <a href="http://www.convio.com/" target="_blank"><img src={Heroku} alt="Convio Luminate Blackbaud logo" title="Convio Luminate Blackbaud logo" /></a>
+        <a href="https://www.campaignmonitor.com/" target="_blank"><img src={Heroku} alt="Campaign Monitor logo" title="Campaign Monitor logo" /></a>
+        <a href="https://wordpress.com/" target="_blank"><img src={Heroku} alt="Wordpress logo" title="Wordpress logo" /></a>
+        <a href="https://beefree.io/" target="_blank"><img src={Heroku} alt="beefree logo" title="beefree logo" /></a>
       </div>
       <div className="resumeDownload">
         <a href={isabelResume}>Click here to download my Resume! </a>
