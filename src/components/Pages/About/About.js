@@ -22,16 +22,16 @@ const About = () => (
         Hola! My name is Isabel Ramirez, I sometimes go by Izzy. I am a bilingual Front-End Developer in the Austin Metropolitan Area. When not solving problems through code and communication, I'm focused on physical well-being and moving the needle on local environmental issues.
         
         Creativity and curiosity lead my day to day which usually involves learning new technologies on the fly to test, debug and communicate solutions. My aim is to engage the technology with those around me for an impactful and enriching end user experience. I’m excited to leverage my skills as part of an innovative and quality-driven team locally and abroad.
-        
+
       </h5>
       <div>
-        <img src={Bootstrap} alt="Bootstrap logo" />
-        <img src={JavaScript} alt="JavaScript logo" />
-        <img src={MongoDB} alt="MongodDB logo" />
+        <a href="https://getbootstrap.com/" target="_blank"><img src={Bootstrap} alt="Bootstrap logo" title="Bootstrap logo"/></a>
+        <a href="https://www.javascript.com/" target="_blank"><img src={JavaScript} alt="JavaScript logo" title="Javascript logo" /></a>
+        <a href="https://www.mongodb.com/" target="_blank"><img src={MongoDB} alt="MongodDB logo" title="MongoDB logo" /></a>
         {/* <img src={Express} alt="Express logo" /> */}
-        <img src={ReactIcon} alt="React logo" />
-        <img src={NodeJS} alt="NodeJS logo" />
-        <img src={Heroku} alt="Heroku logo" />
+        <a href="https://react.dev/" target="_blank"><img src={ReactIcon} alt="React logo" title="React logo"/></a>
+        <a href="https://nodejs.org/en" target="_blank"><img src={NodeJS} alt="NodeJS logo" title="NodeJS logo" /></a>
+        <a href="https://www.heroku.com/" target="_blank"><img src={Heroku} alt="Heroku logo" title="Heroku logo" /></a>
       </div>
       <div className="resumeDownload">
         <a href={isabelResume}>Click here to download my Resume! </a>
