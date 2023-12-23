@@ -17,7 +17,7 @@ function Contact() {
       <div className="contact">
         <h2>Send me a message on LinkedIn:</h2>{" "}
         <a
-          href="https://www.linkedin.com/in/izzy-ramirez-izztnkr/"
+          href="https://www.linkedin.com/in/izzy-ramirez/"
           target="_blank"
         >
           LinkedIn
