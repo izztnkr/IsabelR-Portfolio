@@ -21,7 +21,7 @@ const About = () => (
       <h5 className="bio">
         Hola! My name is Isabel Ramirez, I sometimes go by Izzy. I am a bilingual Front-End Developer in the Austin Metropolitan Area. When not solving problems through code and communication, I'm focused on physical well-being and moving the needle on local environmental issues.
         
-        Creativity and curiosity lead my day to day which usually involves learning new technologies on the fly to test, debug and communicate solutions. My aim is to engage the technology with those around me for an impactful and enriching end user experience. I’m excited to leverage my skills as part of an innovative and quality-driven team locally and abroad.
+        Creativity and curiosity lead my day to day which usually involves learning new technologies on the fly to test, debug and communicate solutions. My aim is to engage the technology with those around me for an impactful and enriching end user experience. I’m excited to leverage my skills as part of an innovative and quality-driven team locally and abroad.   
 
       </h5>
       <div>
