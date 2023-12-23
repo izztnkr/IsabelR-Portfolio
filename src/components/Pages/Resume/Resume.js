@@ -23,16 +23,31 @@ const Resume = () => (
     <p>Sequelize</p>
     &nbsp;
     <h4>Testing</h4>
-    <p>Jest</p>
+    <p>Jest, Litmus</p>
     &nbsp;
     <h4>Hosting</h4>
-    <p>Heroku</p>
+    <p>Heroku, Wordpress</p>
     &nbsp;
-    <h4>Editors and Version Control</h4>
+    <h4>Code Editors and Version Control</h4>
     <p>Visual Studio Code, GitHub</p>
     &nbsp;
     &nbsp;
-
+    <h4>Visual Editors</h4>
+    <p>beefree, Adobe Photoshop</p>
+    &nbsp;
+    &nbsp;
+    <h4>Email Service Providers</h4>
+    <p>Salesforce Marketing Cloud, Pardot, Mailchimp, Hubspot, Blackbaud Convio Luminate, Campaign Monitor</p>
+    &nbsp;
+    &nbsp;
+    <h4>Tag Managers</h4>
+    <p>Google Tag Manager, PiwikPro</p>
+    &nbsp;
+    &nbsp;
+    <h4>Documentation & Productivity</h4>
+    <p>Notion, Slack, Google Suite, Office Suite</p>
+    &nbsp;
+    &nbsp;
     </div>
   </div>
 );
