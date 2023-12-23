@@ -13,7 +13,7 @@ const Footer = () => (
     </a>
     <a
       className="socials"
-      href="https://www.linkedin.com/in/izzy-ramirez-izztnkr/"
+      href="https://www.linkedin.com/in/izzy-ramirez/"
       target="_blank"
     >
       <img src={linkedInLogo}></img>
@@ -27,9 +27,6 @@ const Footer = () => (
     </a>
     <a className="socials" href="mailto:izzcreativa@gmail.com" target="_blank">
       <img src={GmailLogo}></img>
-    </a>
-    <a className="socials" href="https://wa.me/9568217650" target="_blank">
-      <img src={WhatsAppLogo}></img>
     </a>
   </div>
 );
